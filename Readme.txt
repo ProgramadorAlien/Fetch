@@ -1,0 +1,1 @@
+Get data via Api from Spotify with basic Javascript, updating access token every hour
